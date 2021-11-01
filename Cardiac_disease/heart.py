@@ -1,3 +1,8 @@
+## This file creates the web-application with the help of streamlit library in python. 
+## This streamlit is used to make visual representation of predicting data
+## We use Random forest Classifier as our algorithm testing model, becuase it gives the highest prediction score. 
+
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
